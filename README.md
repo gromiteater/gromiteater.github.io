@@ -1,1 +1,33 @@
-# gromiteater.github.io
+<html>
+    <head>
+        <style>
+            @font-face {font-family: Pantasia;
+            src: url(PantasiaUnlicensedTrial-Regular.woff2)}
+            body {
+                background-color: rgb(224, 238, 202);
+                font-size:20px;
+                color:rgb(255, 255, 255);
+                font-family: Pantasia; 
+                background-image: url(stars.gif);
+                text-align: center
+                
+            }
+            h1 {
+                font-size:90px;
+                color: tomato;
+                font-weight: bold;
+                font-family:Pantasia;
+
+            }
+        </style>
+    </head>
+    <body>
+         <img src="horses.gif"> <br>
+            <h1>✧(•‿•) <i><b>Jen's Homepage</b></i> (•‿•)✧</h1>
+         <h2>Header 2</h2>
+         <h3>Header 3</h3>
+         <p>hello this is a sentence <br> hellooooooooo sentence</p>
+         <img src="catjam.gif"> <img src="designcats.jpeg"> <img src="catjam.gif">
+
+    </body>
+</html>
