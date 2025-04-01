@@ -8,7 +8,7 @@
                 font-size:20px;
                 color:rgb(255, 255, 255);
                 font-family: Pantasia; 
-                background-image: url(stars.gif);
+                background-image: url((https://github.com/gromiteater/gromiteater.github.io/blob/main/stars.gif);
                 text-align: center
                 
             }
