@@ -27,7 +27,7 @@
          <h2>Header 2</h2>
          <h3>Header 3</h3>
          <p>hello this is a sentence <br> hellooooooooo sentence</p>
-         <img src="catjam.gif"> <img src="https://github.com/gromiteater/gromiteater.github.io/blob/main/designcats.jpeg"> <img src="https://github.com/gromiteater/gromiteater.github.io/blob/main/catjam.gif">
+         <img src="https://github.com/gromiteater/gromiteater.github.io/blob/main/catjam.gif"> <img src="https://github.com/gromiteater/gromiteater.github.io/blob/main/designcats.jpeg"> <img src="https://github.com/gromiteater/gromiteater.github.io/blob/main/catjam.gif">
 
     </body>
 </html>
